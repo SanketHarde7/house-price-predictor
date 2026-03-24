@@ -8,9 +8,9 @@ A simple end-to-end Machine Learning project that predicts California house pric
 - `models/`: Directory where the trained model is saved.
 - `requirements.txt`: Python dependencies.
 
-## Setup Instructions
+-->Setup Instructions
 
-### 1. Install Dependencies
+1. Install Dependencies
 Make sure you have Python installed, then run:
 
 ```bash
