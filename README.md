@@ -32,4 +32,5 @@ streamlit run app.py
 ```
 
 
-###after this all code should work 
+###after this all code should work  
+#change second for the badge 😅
